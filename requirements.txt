@@ -1,0 +1,30 @@
+# Data Manipulation
+pandas
+numpy
+pyarrow
+
+# Data Collection
+requests
+python-dotenv
+
+# Database
+sqlalchemy
+psycopg[binary]
+
+# Big Data
+pyspark
+delta-spark
+
+# Machine Learning
+scikit-learn
+xgboost
+mlflow
+
+# Backend
+fastapi
+uvicorn[standard]
+pydantic
+
+# Testing
+pytest
+httpx
