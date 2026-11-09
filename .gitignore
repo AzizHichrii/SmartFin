@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.*
+
+# Keep example configuration
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# IDE
+.vscode/
